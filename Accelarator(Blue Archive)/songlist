@@ -1,0 +1,40 @@
+{
+  "id": "accelerator_ba",
+  "title_localized": {
+    "en": "Accelerator"
+  },
+  "artist": "KARUT",
+  "bpm": "174",
+  "bpm_base": 174.0,
+  "set": "base",
+  "purchase": "",
+  "audioPreview": 11034,
+  "audioPreviewEnd": 33016,
+  "side": 0,
+  "bg": "base_light",
+  "remote_dl": false,
+  "world_unlock": false,
+  "date": 0,
+  "version": "3.0",
+  "difficulties": [
+    {
+      "ratingClass": 0,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 1,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 2,
+      "chartDesigner": "覆面水着团",
+      "jacketDesigner": "",
+      "rating": 9,
+      "ratingPlus": true
+    }
+  ]
+}
