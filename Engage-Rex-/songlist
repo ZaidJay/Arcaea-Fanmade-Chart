@@ -1,0 +1,39 @@
+	{
+      "id": "engagerex",
+      "title_localized": {
+		"en": "Engage-Rex-"
+      },
+      "artist": "Getty vs. DJ DiA",
+      "bpm": "200",
+      "bpm_base": 200,
+      "set": "",
+      "purchase": "",
+      "audioPreview": 0,
+      "audioPreviewEnd": 20000,
+      "side": 1,
+      "bg": "nijuusei2_conflict",
+      "world_unlock": false,
+      "date": 1643378999,
+      "version": "3.3",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Zaid_J",
+          "jacketDesigner": "",
+          "rating": 10,
+		  "ratingPlus": true
+        }
+      ]
+    }
