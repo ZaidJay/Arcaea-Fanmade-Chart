@@ -1,0 +1,38 @@
+{
+      "id": "ichirunonoperf",
+      "title_localized": {
+        "en": "チルノのパーフェクトさんすう教室"
+      },
+      "artist": "IOSYS feat. miko",
+      "bpm": "175",
+      "bpm_base": 175,
+      "set": "",
+      "purchase": "",
+      "audioPreview": 21942,
+      "audioPreviewEnd": 43542,
+      "side": 0,
+      "bg": "",
+      "date": 1487980800,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "DEBU",
+          "jacketDesigner": "",
+          "rating": 9,
+		  "ratingPlus": true
+        }
+    ]
+}
