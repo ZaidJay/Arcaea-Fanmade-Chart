@@ -1,0 +1,40 @@
+{
+      "id": "oneroomsugarlife",
+      "title_localized": {
+        "en": "One-Room Sugar Life"
+      },
+      "artist": "Sugar DEBU",
+      "bpm": "180",
+      "bpm_base": 180,
+      "set": "ACG",
+      "purchase": "",
+      "audioPreview": 4333,
+      "audioPreviewEnd": 35000,
+      "side": 0,
+      "bg": "sugarlife",
+      "date": 1145141919,
+      "version": "3.0.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "Sugar DEBU",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": false
+        }
+      ]
+    }
