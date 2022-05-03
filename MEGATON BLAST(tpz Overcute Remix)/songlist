@@ -1,0 +1,45 @@
+{
+  "id": "megatonblast",
+  "title_localized": {
+    "en": "MEGATON BLAST (tpz Overcute Remix)"
+  },
+  "artist": "t+pazolite",
+  "bpm": "210",
+  "bpm_base": 210.0,
+  "set": "game",
+  "purchase": "",
+  "audioPreview": 93428,
+  "audioPreviewEnd": 111999,
+  "side": 0,
+  "bg": "ongeki_light",
+  "remote_dl": false,
+  "world_unlock": false,
+  "date": 0,
+  "version": "3.0",
+  "difficulties": [
+    {
+      "ratingClass": 0,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 1,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 2,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+	{
+      "ratingClass": 3,
+      "chartDesigner": "b站关注粪谱师Zaid_J",
+      "jacketDesigner": "",
+      "rating": 10
+    }
+  ]
+}
