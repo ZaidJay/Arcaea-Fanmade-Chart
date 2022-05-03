@@ -1,0 +1,49 @@
+{
+      "id": "ohisamagaaru",
+      "title_localized": {
+        "en": "Go! Go! Sungirl!"
+		"ja": "ゆけゆけ!おひさまガール!",
+		"zh-Hans": "ゆけゆけ!おひさまガール!",
+		"zh-Hant": "ゆけゆけ!おひさまガール!"
+      },
+	  "source_localized": {
+		"en": "Three Stars Colorful Adventure",
+	    "ja": "三ツ星カラーズ",	
+		"zh-Hans": "三颗星彩色冒险",
+		"zh-Hant": "三顆星彩色冒險"
+	  },
+      "artist": "さっちゃん(CV:高野麻里佳)",
+      "bpm": "153",
+      "bpm_base": 153,
+      "set": "ACG",
+      "purchase": "",
+      "audioPreview": 0,
+      "audioPreviewEnd": 20000,
+      "side": 0,
+      "bg": "base_light",
+      "date": 1145141919,
+      "version": "3.0.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 3,
+          "chartDesigner": "Shiny でーぶ!",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": false
+        }
+      ]
+    },
