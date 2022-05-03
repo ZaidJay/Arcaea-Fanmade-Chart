@@ -1,0 +1,39 @@
+{
+  "id": "lightupmylove",
+  "title_localized": {
+    "en": "Light up my love!!"
+  },
+  "artist": " onoken feat. moco",
+  "bpm": "166",
+  "bpm_base": 166.0,
+  "set": "base",
+  "purchase": "",
+  "audioPreview": 17349,
+  "audioPreviewEnd": 40481,
+  "side": 0,
+  "bg": "hime_light",
+  "remote_dl": false,
+  "world_unlock": false,
+  "date": 0,
+  "version": "3.0",
+  "difficulties": [
+    {
+      "ratingClass": 0,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 1,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 2,
+      "chartDesigner": "Misaka my love!!",
+      "jacketDesigner": "",
+      "rating": 8
+    }
+  ]
+}
