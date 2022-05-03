@@ -1,0 +1,26 @@
+    {
+      "id": "childrenrecord",
+      "title_localized": {
+        "en": "チルドレンレコード"
+      },
+      "artist": "Vivid BAD SQUAD × 鏡音レン",
+      "bpm": "210",
+      "bpm_base": 210,
+      "set": "自己改",
+      "purchase": "",
+      "audioPreview": 63714,
+      "audioPreviewEnd": 80000,
+      "side": 1,
+      "bg": "base_conflict",
+      "version": "",
+      "date": 1622885055,
+      "difficulties": [
+        {
+          "ratingClass": 2,
+          "chartDesigner": "DEBU record",
+          "jacketDesigner": "",
+          "rating": 9,
+          "ratingPlus": false
+        }
+      ]
+    }
