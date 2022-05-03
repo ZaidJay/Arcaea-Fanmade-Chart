@@ -1,0 +1,40 @@
+{
+  "id": "finalbosschan",
+  "title_localized": {
+    "en": "Final-Boss-Chan"
+  },
+  "artist": "Camelia",
+  "bpm": "161",
+  "bpm_base": 161.0,
+  "set": "game",
+  "purchase": "",
+  "audioPreview": 169933,
+  "audioPreviewEnd": 183349,
+  "side": 1,
+  "bg": "single2_conflict",
+  "remote_dl": false,
+  "world_unlock": false,
+  "date": 0,
+  "version": "3.0",
+  "difficulties": [
+    {
+      "ratingClass": 0,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 1,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 2,
+      "chartDesigner": "孤儿",
+      "jacketDesigner": "",
+      "rating": 10,
+      "ratingPlus": true
+    }
+  ]
+}
