@@ -1,0 +1,39 @@
+	{
+      "id": "gloomyflash",
+      "title_localized": {
+		"en": "Gloomy flash(Edit Version)"
+      },
+      "artist": "Zekk vs. poplavor feat. mami",
+      "bpm": "150",
+      "bpm_base": 150,
+      "set": "",
+      "purchase": "",
+      "audioPreview": 38400,
+      "audioPreviewEnd": 65600,
+      "side": 0,
+      "bg": "nijuusei2_light",
+      "world_unlock": false,
+      "date": 1643378999,
+      "version": "3.3",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "DBZJ",
+          "jacketDesigner": "",
+          "rating": 9,
+	"ratingPlus": true
+        }
+      ]
+    }
