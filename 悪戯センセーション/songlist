@@ -1,0 +1,37 @@
+{
+      "id": "itazurasensation_sinrabansyou",
+      "title_localized": {
+        "en": "悪戯センセーション"
+      },
+      "artist": "森羅万象",
+      "bpm": "192",
+      "bpm_base": 192,
+      "set": "base",
+      "purchase": "",
+      "audioPreview": 71562,
+      "audioPreviewEnd": 91718,
+      "side": 0,
+      "bg": "",
+      "date": 1487980800,
+      "version": "1.0",
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "DEBU",
+          "jacketDesigner": "",
+          "rating": 9
+        }
+    ]
+}
