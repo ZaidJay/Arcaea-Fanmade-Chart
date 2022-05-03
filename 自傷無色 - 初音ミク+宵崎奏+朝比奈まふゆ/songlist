@@ -1,0 +1,40 @@
+    {
+      "id": "nagahoshi",
+      "title_localized": {
+        "en": "自傷無色"
+      },
+      "artist": "ねこぼーろ",
+      "bpm": "120",
+      "bpm_base": 120,
+      "set": "VOCALOID",
+      "purchase": "",
+      "audioPreview": 56334,
+      "audioPreviewEnd": 88000,
+      "side": 0,
+      "bg": "mirai_light",
+      "version": "3.0.0",
+      "date": 1145141919,
+      "difficulties": [
+        {
+          "ratingClass": 0,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 1,
+          "chartDesigner": "",
+          "jacketDesigner": "",
+          "rating": 0,
+          "ratingPlus": false
+        },
+        {
+          "ratingClass": 2,
+          "chartDesigner": "SADebu",
+          "jacketDesigner": "",
+          "rating": 8,
+          "ratingPlus": false
+        }
+      ]
+    }
