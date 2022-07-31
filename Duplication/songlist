@@ -1,0 +1,39 @@
+{
+  "id": "duplication",
+  "title_localized": {
+    "en": "Duplication"
+  },
+  "artist": "Zekk",
+  "bpm": "202",
+  "bpm_base": 202.0,
+  "set": "base",
+  "purchase": "",
+  "audioPreview": 20197,
+  "audioPreviewEnd": 40395,
+  "side": 1,
+  "bg": "observer_conflict",
+  "remote_dl": false,
+  "world_unlock": false,
+  "date": 0,
+  "version": "3.0",
+  "difficulties": [
+    {
+      "ratingClass": 0,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 1,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 2,
+      "chartDesigner": "Sayo's friend SAID:\"Ctrl+C\"",
+      "jacketDesigner": "Sayo999qw",
+      "rating": 11
+    }
+  ]
+}
