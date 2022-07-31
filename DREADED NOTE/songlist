@@ -1,0 +1,40 @@
+{
+  "id": "dreadednote",
+  "title_localized": {
+    "en": "DREADED NOTE"
+  },
+  "artist": "t+pazolite",
+  "bpm": "240",
+  "bpm_base": 240.0,
+  "set": "base",
+  "purchase": "",
+  "audioPreview": 122000,
+  "audioPreviewEnd": 138000,
+  "side": 1,
+  "bg": "tanoc_conflict",
+  "remote_dl": false,
+  "world_unlock": false,
+  "date": 0,
+  "version": "4.0",
+  "difficulties": [
+    {
+      "ratingClass": 0,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 1,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 2,
+      "chartDesigner": "ASC(2->1\\1->0)",
+      "jacketDesigner": "",
+      "rating": 10,
+      "ratingPlus": true
+    }
+  ]
+}
