@@ -1,0 +1,39 @@
+{
+  "id": "waterfall",
+  "title_localized": {
+    "en": "Waterfall"
+  },
+  "artist": "awfuless meets Zekk",
+  "bpm": "174",
+  "bpm_base": 174.0,
+  "set": "base",
+  "purchase": "",
+  "audioPreview": 13793,
+  "audioPreviewEnd": 24827,
+  "side": 0,
+  "bg": "single2_light",
+  "remote_dl": false,
+  "world_unlock": false,
+  "date": 0,
+  "version": "3.0",
+  "difficulties": [
+    {
+      "ratingClass": 0,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 1,
+      "chartDesigner": "",
+      "jacketDesigner": "",
+      "rating": 0
+    },
+    {
+      "ratingClass": 2,
+      "chartDesigner": "I love Zekk",
+      "jacketDesigner": "",
+      "rating": 10
+    }
+  ]
+}
